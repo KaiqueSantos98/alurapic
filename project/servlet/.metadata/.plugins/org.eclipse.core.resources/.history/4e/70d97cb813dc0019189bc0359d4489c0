@@ -1,9 +1,0 @@
-<%
-	String nomeEmpresa = "Apple";
-%>
-
-<html>
-<body>
-	Empresa <%= nomeEmpresa %> cadastrada com sucesso.
-</body>
-</html>

@@ -1,3 +1,0 @@
-INDEX VERSION 1.131
-C:\PDI\project\servlet II\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1532149616.index
-\gerenciador\src
