@@ -1,0 +1,15 @@
+package certificacao.br.com.certificacao.tiposDeDados;
+
+public class Teste {
+		
+	static Integer y;
+	
+	public static void main(String[] args) {
+		
+		String a = "";
+		
+		System.out.println(a.length());
+	}
+
+
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="byteBank.conta.Cliente"/>
+<fullyQualifiedTypeName name="byteBank.conta.Conta"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+<fullyQualifiedTypeName name="java.io.BufferedInputStream"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+<fullyQualifiedTypeName name="br.com.alura.io.test.Pessoa"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.lang.Boolean"/>
+<fullyQualifiedTypeName name="certificacao.br.com.certificacao.tiposDeDados.RelatorioMensal"/>
+<fullyQualifiedTypeName name="certificacao.br.com.certificacao.tiposDeDados.Gerente"/>
+<fullyQualifiedTypeName name="certificacao.br.com.certificacao.tiposDeDados.Vendedor"/>
+<fullyQualifiedTypeName name="certificacao.br.com.certificacao.tiposDeDados.Funcionario"/>
+<fullyQualifiedTypeName name="java.lang.ClassCastException"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="certificacao.br.com.certificacao.tiposDeDados.Filha"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+<fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="certificacao.br.com.certificacao.tiposDeDados.Teste"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,7 @@
+##### Angular CMD #####
+
+|Criar projeto em Angular
+ - ng new project
+
+|Startar servidor local
+ - ng serve --open

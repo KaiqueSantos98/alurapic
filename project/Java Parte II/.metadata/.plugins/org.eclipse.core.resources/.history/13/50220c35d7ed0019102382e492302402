@@ -1,0 +1,19 @@
+package certificacao.br.com.certificacao.tiposDeDados;
+
+public class Teste {
+		
+	static Integer y;
+	
+	public static void main(String[] args) {
+		
+		Cliente clientes[] = new Cliente[10];
+		
+		
+	}
+
+
+}
+
+class Cliente{
+	String nome;
+}

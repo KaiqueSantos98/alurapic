@@ -1,0 +1,28 @@
+<%@ page import="java.util.List, br.com.alura.gerenciador.servlet.Empresa" %>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" %>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Empresas Cadastradas - Servlet</title>
+</head>
+<body>
+	Empresas Cadastradas
+	<ul>
+		<% 
+		List<Empresa> lista = (List<Empresa>) request.getAttribute("listaEmpresa");
+			for(Empresa empresa : lista){ 	
+		%>		
+		<li> <%= empresa.getNomeEmpresa() %></li>
+		
+		<% } %>
+	</ul>
+	
+   <ul>
+		<c:forEach items="${listaEmpresa}" var="lista">
+			 <li>${lista.nome}</li>
+		</c:forEach>
+	</ul>
+</body>
+</html>
